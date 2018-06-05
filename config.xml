@@ -2,13 +2,13 @@
 
 <widget xmlns = "http://www.w3.org/ns/widgets"
  xmlns:gap = "http://phonegap.com/ns/1.0"
- id = "com.phonegap.app3"
+ id = "com.phonegap.app10"
  version ="1.0.0">
  
-  <name> app6 Aplicacion batalla de puebla</name>
+  <name> app10 Tutorial de DSAUPOO</name>
   
   <description>
-  Aplicación que muestra la batalla del 5 de mayo
+  Aplicación que muestra Tutorial de DSAUPOO
   </description>
   
   <author href="https://build.phonegap.com" email="Corvasalrony@gmail.com">
@@ -42,6 +42,6 @@
    
     <!--Colocar icono app --> 
 	
-	<icon src="res/android/mdpi.png" />
+	<icon src="res/android/dsaupo.png" />
 	
 	</widget>
